@@ -1,6 +1,6 @@
-# Retail-Store-REST
+# Retail Store
 ## Description
-This is an online post platform
+This is an online post platform. View the deployed app here https://ripperonik.github.io/retail-store-rest-frontend
 ## Features
 - Token-based authentication/authorization
 - RESTful API
